@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "Dont_MSG_ME", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "itsjutus.aternos.me", 
-    "port": 38934,   
-    "version": "1.12.1"   
+    "ip": "US_only_US.aternos.me", 
+    "port": 34345,   
+    "version": "1.21.10"   
   },
 
   "position": {
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 60,
 
