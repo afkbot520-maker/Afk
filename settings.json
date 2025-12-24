@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "US_only_US.aternos.me", 
-    "port": 34345,   
+    "ip": "itsjutus.aternos.me", 
+    "port": 38934,   
     "version": "1.21.10"   
   },
 
